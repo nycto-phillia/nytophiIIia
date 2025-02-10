@@ -8,7 +8,7 @@
   <div align="left" style="width: 45%;">
     <h3>about me</h3>
     <p>computer engineering student</p>
-    <p>backend, data science & gamedev</p>
+    <p>machine learning & gamedev</p>
   </div>
   
   <div align="center" style="width: 10%; padding: 10px;">
