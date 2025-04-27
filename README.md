@@ -17,8 +17,8 @@
   
   <div align="right" style="width: 45%;">
     <h3>used languages</h3>
-    <p>c++, python & gml</p>
-    <p>learning php</p>
+    <p>c++, python, r & gml</p>
+    <p>learning sql</p>
   </div>
 </p>
 
